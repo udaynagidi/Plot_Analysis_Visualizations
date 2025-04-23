@@ -37,7 +37,7 @@ This notebook uses a structured dataset loaded from CSV format (or simulated dat
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/plot-analysis-visualizations.git
+   git clone https://github.com/udaynagidi/Plot_Analysis_Visualizations.git
 
 ## Tools: Jupyter Notebook, pandas, matplotlib, seaborn
 
