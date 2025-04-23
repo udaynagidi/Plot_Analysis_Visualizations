@@ -39,9 +39,9 @@ This notebook uses a structured dataset loaded from CSV format (or simulated dat
    ```bash
    git clone https://github.com/your-username/plot-analysis-visualizations.git
 
-##Tools: Jupyter Notebook, pandas, matplotlib, seaborn
+## Tools: Jupyter Notebook, pandas, matplotlib, seaborn
 
-##Inspiration: Project-based learning in data storytelling with Python
+## Inspiration: Project-based learning in data storytelling with Python
 
 ---
 This notebook is meant to help students, analysts, and data enthusiasts improve their visualization storytelling using Python.
